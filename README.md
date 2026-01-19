@@ -55,8 +55,4 @@ Para agilizar o desenvolvimento local, criei comandos personalizados que automat
 3.  Use o comando abaixo para subir suas alterações com segurança:
     ```bash
     make push-seguro m="seu commit"
-<<<<<<< HEAD
     ```
-=======
-    ```
->>>>>>> origin/main
